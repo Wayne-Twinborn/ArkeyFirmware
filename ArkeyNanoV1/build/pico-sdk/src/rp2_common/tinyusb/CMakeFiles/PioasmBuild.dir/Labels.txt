@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild.rule
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild-complete.rule
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/Wayne/dev/ArkeyFirmware/ArkeyNanoV1/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

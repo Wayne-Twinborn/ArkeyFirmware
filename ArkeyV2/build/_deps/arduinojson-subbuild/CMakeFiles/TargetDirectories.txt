@@ -1,0 +1,3 @@
+/home/Wayne/dev/ArkeyFirmware/ArkeyV2/build/_deps/arduinojson-subbuild/CMakeFiles/arduinojson-populate.dir
+/home/Wayne/dev/ArkeyFirmware/ArkeyV2/build/_deps/arduinojson-subbuild/CMakeFiles/edit_cache.dir
+/home/Wayne/dev/ArkeyFirmware/ArkeyV2/build/_deps/arduinojson-subbuild/CMakeFiles/rebuild_cache.dir
